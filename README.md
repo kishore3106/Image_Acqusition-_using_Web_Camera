@@ -1,7 +1,7 @@
 # Image Acquisition using Web Camera
 
-### Name : Dakshata G
-### Register No : 212223240021
+### Name : Kishore B
+### Register No : 212224100032
 
 ## Aim:
  
